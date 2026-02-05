@@ -20,7 +20,6 @@ func physics_update(_delta: float) -> void:
 	if timeSinceLookCheck >= 5:
 		timeSinceLookCheck = 0
 		var cn = randf()
-		print(cn)
 		if cn > 0.5 && player.animation_player.current_animation != "looking":
 			player.animation_player.play('looking')
 	else:
