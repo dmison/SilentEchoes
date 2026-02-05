@@ -396,3 +396,6 @@ $RECYCLE.BIN/
 *.lnk
 *.generated.props
 
+
+.godot/
+addons
