@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6pkyqymhud61"
-path="res://.godot/imported/Cassie.png-4b8c735195b16a55db9bb488bdbdaea7.ctex"
+uid="uid://cwrs2y38b5ybf"
+path="res://.godot/imported/env-tiles0.png-567af99b92f1ee2d1690f429e392565e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Cassie.png"
-dest_files=["res://.godot/imported/Cassie.png-4b8c735195b16a55db9bb488bdbdaea7.ctex"]
+source_file="res://Assets/env-tiles0.png"
+dest_files=["res://.godot/imported/env-tiles0.png-567af99b92f1ee2d1690f429e392565e.ctex"]
 
 [params]
 
@@ -37,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1

@@ -1,6 +1,6 @@
 [gd_scene format=4 uid="uid://dwjb4etf61qyn"]
 
-[ext_resource type="Texture2D" uid="uid://cwrs2y38b5ybf" path="res://silent-echoes.png" id="1_t21ke"]
+[ext_resource type="Texture2D" uid="uid://cwrs2y38b5ybf" path="res://Assets/env-tiles0.png" id="1_t21ke"]
 [ext_resource type="PackedScene" uid="uid://ct8m2fb6xexq3" path="res://Scenes/player.tscn" id="2_i4kf4"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_i4kf4"]
